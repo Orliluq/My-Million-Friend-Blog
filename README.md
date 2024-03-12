@@ -1,3 +1,5 @@
+# 🚧 Aún en CONSTRUCCIÓN 🚧
+
 # Astro Starter Kit: Blog
 
 ```sh
